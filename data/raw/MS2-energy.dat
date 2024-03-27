@@ -1,0 +1,600 @@
+AgS2-9
+Ag S
+2 4
+ PAW_PBE Ag 06Sep2000
+   TITEL  = PAW_PBE Ag 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.22220344E+02 E0= -.22220720E+02 d E =-.222203E+02
+-------------------------------
+
+BS2-36
+B S
+4 8
+ PAW_PBE B 06Sep2000
+   TITEL  = PAW_PBE B 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+44 F= -.59521152E+02 E0= -.59522515E+02 d E =-.241516E-06
+-------------------------------
+
+CuS2-9
+Cu S
+2 4
+ PAW_PBE Cu_pv 06Sep2000
+   TITEL  = PAW_PBE Cu_pv 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+2 F= -.25314850E+02 E0= -.25314280E+02 d E =-.156346E-06
+-------------------------------
+
+IrS2-9
+Ir S
+2 4
+ PAW_PBE Ir 06Sep2000
+   TITEL  = PAW_PBE Ir 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.36019496E+02 E0= -.36019298E+02 d E =-.360195E+02
+-------------------------------
+
+MnS2-12
+Mn S
+4 8
+ PAW_PBE Mn 06Sep2000
+   TITEL  = PAW_PBE Mn 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+2 F= -.75497383E+02 E0= -.75499252E+02 d E =-.199582E-06
+-------------------------------
+
+PS2-33
+P S
+2 4
+  PAW_PBE P 17Jan2003                    
+   TITEL  = PAW_PBE P 17Jan2003
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.27491510E+02 E0= -.27491527E+02 d E =-.274915E+02
+-------------------------------
+
+ScS2-1
+Sc S
+2 4
+ PAW_PBE Sc_sv 07Sep2000
+   TITEL  = PAW_PBE Sc_sv 07Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.37159619E+02 E0= -.37159492E+02 d E =-.371596E+02
+-------------------------------
+
+TiS2-1
+Ti S
+2 4
+ PAW_PBE Ti_pv 07Sep2000
+   TITEL  = PAW_PBE Ti_pv 07Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+3 F= -.39974236E+02 E0= -.39974413E+02 d E =0.482614E-07
+-------------------------------
+
+AlS2-17
+Al S
+2 4
+ PAW_PBE Al 04Jan2001
+   TITEL  = PAW_PBE Al 04Jan2001
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+90 F= -.28757221E+02 E0= -.28757500E+02 d E =-.183566E-06
+-------------------------------
+
+CaS2-9
+Ca S
+2 4
+ PAW_PBE Ca_pv 06Sep2000
+   TITEL  = PAW_PBE Ca_pv 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+4 F= -.28366384E+02 E0= -.28366945E+02 d E =0.114363E-06
+-------------------------------
+
+FeS2-8
+Fe S
+4 8
+ PAW_PBE Fe_pv 06Sep2000
+   TITEL  = PAW_PBE Fe_pv 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.72841526E+02 E0= -.72845623E+02 d E =-.728415E+02
+-------------------------------
+
+IS2-9
+I S
+2 4
+ PAW_PBE I 08Apr2002
+   TITEL  = PAW_PBE I 08Apr2002
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.18422560E+02 E0= -.18421739E+02 d E =-.184226E+02
+-------------------------------
+
+MoS2-1
+Mo S
+2 4
+ PAW_PBE Mo_pv 08Apr2002
+   TITEL  = PAW_PBE Mo_pv 08Apr2002
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+8 F= -.41749279E+02 E0= -.41750062E+02 d E =-.271930E-06
+-------------------------------
+
+SeS2-26
+Se S
+1 2
+ PAW_PBE Se 06Sep2000
+   TITEL  = PAW_PBE Se 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+2 F= -.10898845E+02 E0= -.10898901E+02 d E =-.384149E-07
+-------------------------------
+
+TlS2-18
+Tl S
+1 2
+ PAW_PBE Tl_d 06Sep2000
+   TITEL  = PAW_PBE Tl_d 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.10873396E+02 E0= -.10873319E+02 d E =-.108734E+02
+-------------------------------
+
+AsS2-1
+As S
+2 4
+ PAW_PBE As 06Sep2000
+   TITEL  = PAW_PBE As 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.25497078E+02 E0= -.25497046E+02 d E =-.254971E+02
+-------------------------------
+
+CdS2-9
+Cd S
+2 4
+ PAW_PBE Cd 06Sep2000
+   TITEL  = PAW_PBE Cd 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.20159637E+02 E0= -.20159804E+02 d E =-.201596E+02
+-------------------------------
+
+FS2-38
+F S
+8 16
+ PAW_PBE F 08Apr2002
+   TITEL  = PAW_PBE F 08Apr2002
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+200 F= -.94196875E+02 E0= -.94203967E+02 d E =-.591985E-03
+-------------------------------
+
+NaS2-34
+Na S
+8 16
+  PAW_PBE Na_pv 19Sep2006                
+   TITEL  = PAW_PBE Na_pv 19Sep2006
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+32 F= -.88855682E+02 E0= -.88859204E+02 d E =-.703434E-06
+-------------------------------
+
+PtS2-1
+Pt S
+2 4
+ PAW_PBE Pt 05Jan2001
+   TITEL  = PAW_PBE Pt 05Jan2001
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+12 F= -.30742144E+02 E0= -.30743276E+02 d E =-.204718E-07
+-------------------------------
+
+SiS2-12
+Si S
+4 8
+ PAW_PBE Si 05Jan2001
+   TITEL  = PAW_PBE Si 05Jan2001
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+170 F= -.62630563E+02 E0= -.62632788E+02 d E =-.126288E-06
+-------------------------------
+
+VS2-13
+V S
+1 2
+ PAW_PBE V 08Apr2002
+   TITEL  = PAW_PBE V 08Apr2002
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.19708900E+02 E0= -.19708811E+02 d E =-.197089E+02
+-------------------------------
+
+AuS2-8
+Au S
+4 8
+ PAW_PBE Au 06Sep2000
+   TITEL  = PAW_PBE Au 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.44655742E+02 E0= -.44655008E+02 d E =-.446557E+02
+-------------------------------
+
+CeS2-32
+Ce S
+4 8
+ PAW_PBE Ce_3 06Sep2000
+   TITEL  = PAW_PBE Ce_3 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+9 F= -.72261280E+02 E0= -.72261448E+02 d E =-.239869E-06
+-------------------------------
+
+GaS2-17
+Ga S
+2 4
+ PAW_PBE Ga_d 06Sep2000
+   TITEL  = PAW_PBE Ga_d 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+85 F= -.24961480E+02 E0= -.24961920E+02 d E =-.117288E-06
+-------------------------------
+
+KS2-32
+K S
+4 8
+ PAW_PBE K_sv 06Sep2000
+   TITEL  = PAW_PBE K_sv 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+73 F= -.45173938E+02 E0= -.45176194E+02 d E =-.680951E-06
+-------------------------------
+
+NbS2-1
+Nb S
+2 4
+ PAW_PBE Nb_pv 08Apr2002
+   TITEL  = PAW_PBE Nb_pv 08Apr2002
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.42604042E+02 E0= -.42604220E+02 d E =-.426040E+02
+-------------------------------
+
+RaS2-9
+Ra S
+1 2
+  PAW_PBE Ra_sv 29May2007                
+   TITEL  = PAW_PBE Ra_sv 29May2007
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+13 F= -.13563643E+02 E0= -.13564021E+02 d E =-.118495E-06
+-------------------------------
+
+BaS2-1
+Ba S
+2 4
+ PAW_PBE Ba_sv 06Sep2000
+   TITEL  = PAW_PBE Ba_sv 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.27966518E+02 E0= -.27966782E+02 d E =-.279665E+02
+-------------------------------
+
+ClS2-38
+Cl S
+8 16
+  PAW_PBE Cl 17Jan2003                   
+   TITEL  = PAW_PBE Cl 17Jan2003
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+200 F= -.82555959E+02 E0= -.82561398E+02 d E =-.229493E-04
+-------------------------------
+
+GeS2-22
+Ge S
+2 4
+  PAW_PBE Ge_d 03Jul2007                 
+   TITEL  = PAW_PBE Ge_d 03Jul2007
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+43 F= -.27246030E+02 E0= -.27246153E+02 d E =-.117570E-07
+-------------------------------
+
+LaS2-31
+La S
+1 2
+ PAW_PBE La 06Sep2000
+   TITEL  = PAW_PBE La 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.18313797E+02 E0= -.18313535E+02 d E =-.183138E+02
+-------------------------------
+
+NiS2-8
+Ni S
+4 8
+ PAW_PBE Ni 06Sep2000
+   TITEL  = PAW_PBE Ni 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.58221032E+02 E0= -.58219906E+02 d E =-.582210E+02
+-------------------------------
+
+RbS2-32
+Rb S
+4 8
+ PAW_PBE Rb_sv 06Sep2000
+   TITEL  = PAW_PBE Rb_sv 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+35 F= -.44651234E+02 E0= -.44653650E+02 d E =-.549529E-06
+-------------------------------
+
+SnS2-35
+Sn S
+2 4
+ PAW_PBE Sn_d 06Sep2000
+   TITEL  = PAW_PBE Sn_d 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.25679808E+02 E0= -.25679674E+02 d E =-.256798E+02
+-------------------------------
+
+WS2-1
+W S
+2 4
+ PAW_PBE W_pv 06Sep2000
+   TITEL  = PAW_PBE W_pv 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+20 F= -.45583478E+02 E0= -.45583593E+02 d E =0.967975E-07
+-------------------------------
+
+BeS2-4
+Be S
+2 4
+ PAW_PBE Be 06Sep2000
+   TITEL  = PAW_PBE Be 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.26630131E+02 E0= -.26630469E+02 d E =-.266301E+02
+-------------------------------
+
+CoS2-8
+Co S
+4 8
+ PAW_PBE Co 06Sep2000
+   TITEL  = PAW_PBE Co 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+4 F= -.65427501E+02 E0= -.65425792E+02 d E =-.197999E-06
+-------------------------------
+
+HfS2-1
+Hf S
+2 4
+ PAW_PBE Hf_pv 06Sep2000
+   TITEL  = PAW_PBE Hf_pv 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.45916822E+02 E0= -.45916924E+02 d E =-.459168E+02
+-------------------------------
+
+LiS2-32
+Li S
+4 8
+  PAW_PBE Li_sv 10Sep2004                
+   TITEL  = PAW_PBE Li_sv 10Sep2004
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.46759958E+02 E0= -.46760484E+02 d E =-.467600E+02
+-------------------------------
+
+NS2-3
+N S
+1 2
+ PAW_PBE N 08Apr2002
+   TITEL  = PAW_PBE N 08Apr2002
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+12 F= -.14745284E+02 E0= -.14745190E+02 d E =-.102152E-05
+-------------------------------
+
+RhS2-36
+Rh S
+4 8
+ PAW_PBE Rh 06Sep2000
+   TITEL  = PAW_PBE Rh 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+4 F= -.66724660E+02 E0= -.66725513E+02 d E =-.285805E-06
+-------------------------------
+
+SrS2-9
+Sr S
+1 2
+ PAW_PBE Sr_sv 07Sep2000
+   TITEL  = PAW_PBE Sr_sv 07Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.13978092E+02 E0= -.13978132E+02 d E =-.139781E+02
+-------------------------------
+
+YS2-17
+Y S
+2 4
+ PAW_PBE Y_sv 06Sep2000
+   TITEL  = PAW_PBE Y_sv 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+11 F= -.39813857E+02 E0= -.39814158E+02 d E =-.485950E-06
+-------------------------------
+
+BiS2-1
+Bi S
+2 4
+ PAW_PBE Bi_d 06Sep2000
+   TITEL  = PAW_PBE Bi_d 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.24832610E+02 E0= -.24832709E+02 d E =-.248326E+02
+-------------------------------
+
+CrS2-13
+Cr S
+1 2
+ PAW_PBE Cr 06Sep2000
+   TITEL  = PAW_PBE Cr 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.19752525E+02 E0= -.19752778E+02 d E =-.197525E+02
+-------------------------------
+
+HgS2-9
+Hg S
+2 4
+ PAW_PBE Hg 06Sep2000
+   TITEL  = PAW_PBE Hg 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+5 F= -.16916433E+02 E0= -.16916802E+02 d E =-.265851E-06
+-------------------------------
+
+LuS2-8
+Lu S
+4 8
+ PAW_PBE Lu_3 06Sep2000
+   TITEL  = PAW_PBE Lu_3 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.67502911E+02 E0= -.67498182E+02 d E =-.675029E+02
+-------------------------------
+
+PbS2-8
+Pb S
+4 8
+ PAW_PBE Pb_d 06Sep2000
+   TITEL  = PAW_PBE Pb_d 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.51476623E+02 E0= -.51476647E+02 d E =-.514766E+02
+-------------------------------
+
+RuS2-8
+Ru S
+4 8
+ PAW_PBE Ru 06Sep2000
+   TITEL  = PAW_PBE Ru 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+2 F= -.76377282E+02 E0= -.76381231E+02 d E =0.256084E-06
+-------------------------------
+
+TaS2-13
+Ta S
+1 2
+ PAW_PBE Ta_pv 07Sep2000
+   TITEL  = PAW_PBE Ta_pv 07Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.23262433E+02 E0= -.23262665E+02 d E =-.232624E+02
+-------------------------------
+
+ZnS2-8
+Zn S
+4 8
+ PAW_PBE Zn 06Sep2000
+   TITEL  = PAW_PBE Zn 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.42495064E+02 E0= -.42495152E+02 d E =-.424951E+02
+-------------------------------
+
+BrS2-38
+Br S
+8 16
+ PAW_PBE Br 06Sep2000
+   TITEL  = PAW_PBE Br 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+200 F= -.78885944E+02 E0= -.78891350E+02 d E =-.256709E-05
+-------------------------------
+
+CsS2-31
+Cs S
+1 2
+ PAW_PBE Cs_sv 08Apr2002
+   TITEL  = PAW_PBE Cs_sv 08Apr2002
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+5 F= -.10959223E+02 E0= -.10959110E+02 d E =-.215039E-06
+-------------------------------
+
+InS2-1
+In S
+2 4
+ PAW_PBE In_d 06Sep2000
+   TITEL  = PAW_PBE In_d 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.23273576E+02 E0= -.23274344E+02 d E =-.232736E+02
+-------------------------------
+
+MgS2-9
+Mg S
+2 4
+ PAW_PBE Mg 05Jan2001
+   TITEL  = PAW_PBE Mg 05Jan2001
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+3 F= -.24977183E+02 E0= -.24977360E+02 d E =0.676305E-07
+-------------------------------
+
+PdS2-8
+Pd S
+4 8
+  PAW_PBE Pd 05Jan2001                   
+   TITEL  = PAW_PBE Pd 05Jan2001
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.56159609E+02 E0= -.56159485E+02 d E =-.561596E+02
+-------------------------------
+
+SbS2-30
+Sb S
+1 2
+ PAW_PBE Sb 06Sep2000
+   TITEL  = PAW_PBE Sb 06Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+20 F= -.12657641E+02 E0= -.12657753E+02 d E =-.510673E-06
+-------------------------------
+
+TeS2-31
+Te S
+2 4
+ PAW_PBE Te 08Apr2002
+   TITEL  = PAW_PBE Te 08Apr2002
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.21891359E+02 E0= -.21891559E+02 d E =-.218914E+02
+-------------------------------
+
+ZrS2-31
+Zr S
+1 2
+ PAW_PBE Zr_sv 07Sep2000
+   TITEL  = PAW_PBE Zr_sv 07Sep2000
+  PAW_PBE S 17Jan2003                    
+   TITEL  = PAW_PBE S 17Jan2003
+1 F= -.21358479E+02 E0= -.21358515E+02 d E =-.213585E+02
+-------------------------------
+
